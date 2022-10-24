@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: Tarea3.JavaQuest
+Class-Path: build/jar
